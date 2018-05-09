@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>about us</title>
+<title>contact us</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -58,36 +58,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	@include('Partials.navbar')
 		<div class="w3l_banner_nav_right">
 <!-- about -->
-			<div class="privacy about">
+		<div class="privacy about">
 			<h3>About Us</h3>
 			<div class="row">
 				<div class="col-md-12">
 					<div class="col-md-3">
-						<label style="color: red">CEO:</label>
+						<label>CEO:</label>
 
 					</div>
 					<div class="col-md-3">
-						<label style="text-decoration: underline;">Muhammad Rizwan</label>
+						<label>Muhammad Rizwan</label>
 					</div>
 					<div class="col-md-3">
-						<label style="text-decoration: underline;">Rizwan@rick-fin.com</label>
+						<label>Rizwan@rick-fin.com</label>
 					</div>
 					<div class="col-md-3">
-						<label style="text-decoration: underline;">0347 4125987</label>
-					</div>
-					<hr>
-						<div class="col-md-3">
-						<label style="color: red">Sale Manager:</label>
-
-					</div>
-					<div class="col-md-3">
-						<label style="text-decoration: underline;">Adil Hussain</label>
-					</div>
-					<div class="col-md-3">
-						<label style="text-decoration: underline;">info@rick-fin.com</label>
-					</div>
-					<div class="col-md-3">
-						<label style="text-decoration: underline;">0317 7371971</label>
+						<label>0347 4125987</label>
 					</div>
 				</div>
 				
